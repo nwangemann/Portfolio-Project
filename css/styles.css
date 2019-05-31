@@ -14,6 +14,30 @@ h2 {
   text-align: center;
 }
 
+.panel-heading {
+  background-color: #0E3B43;
+}
+
+.panel-title {
+  font-size: 30px;
+  color: #0E3B43;
+  background-color: #F4F7F6;
+  padding: 7px;
+  border: solid #0E3B43 3px;
+}
+
+.panel-body {
+  border: #0E3B43;
+  color: #0E3B43;
+}
+
+#about-title {
+  font-size: 30px;
+  background-color: #0E3B43;
+  color: #F4F7F6;
+  padding: 7px;
+}
+
 #aboutmeimg {
   float: right;
   width: 67%;
