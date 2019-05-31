@@ -11,5 +11,10 @@ body {
 }
 
 h2 {
-  
+
+}
+
+#aboutmeimg {
+  float: right;
+  width: 50%;
 }
