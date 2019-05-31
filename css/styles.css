@@ -8,6 +8,7 @@
 
 body {
   background-color: #F4F7F6;
+  background-image: radial-gradient(ellipse, #F4F7F6, #0E3B43);
 }
 
 h2 {
@@ -27,7 +28,15 @@ h4 {
 }
 
 .aboutme {
-  background-color: #439A86;
+  background-image: radial-gradient(ellipse, #F4F7F6, #F4FDFF);
+  border-right: solid #0E3B43 3px;
+  border-bottom: solid #0E3B43 3px;
+  border-left: solid #0E3B43 3px;
+}
+
+.aboutmebody {
+  padding-left: 10px;
+
 }
 
 .panel-heading {
@@ -56,7 +65,9 @@ h4 {
   font-size: 30px;
   background-color: #0E3B43;
   color: #F4F7F6;
-  padding: 7px;
+  padding-left: 7px;
+  padding-top: 7px;
+  padding-right: 7px;
 }
 
 #aboutmeimg {
@@ -64,7 +75,6 @@ h4 {
   width: 67%;
   padding-left: 10px;
   padding-bottom: 10px;
-  padding-top: 10px;
 }
 
 #grad {
