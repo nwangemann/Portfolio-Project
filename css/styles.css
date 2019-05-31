@@ -73,6 +73,12 @@ ol li {
   color: #0E3B43;
 }
 
+.img-responsive {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 #about-title {
   font-size: 30px;
   background-color: #0E3B43;
