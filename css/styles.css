@@ -43,7 +43,7 @@ ol li {
 
 .aboutmebody {
   padding-left: 10px;
-
+  background-color: #F4F7F6;
 }
 
 .panel-heading {
@@ -63,7 +63,6 @@ ol li {
   font-size: 30px;
   color: #0E3B43;
   text-shadow: 2px 2px 10px #0E3B43;
-  background-color: #F4F7F6;
   padding: 7px;
   border: groove #F4F7F6 3px;
   border-radius: 5px;
