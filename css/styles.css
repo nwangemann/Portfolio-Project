@@ -23,6 +23,12 @@ h4 {
   font-size: 20px;
 }
 
+ol li {
+  color: #0E3B43;
+  font-size: 20px;
+  text-shadow: 2px 2px 8px #0E3B43;
+}
+
 .projects {
   padding-top: 6px;
 }
