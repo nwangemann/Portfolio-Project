@@ -16,7 +16,7 @@ h2 {
 }
 
 h3 {
-  text-shadow: 2px 2px 8px #0E3B43;
+  text-shadow: 1px 1px 18px #0E3B43;
 }
 
 h4 {
@@ -38,6 +38,7 @@ ol li {
   border-right: solid #0E3B43 3px;
   border-bottom: solid #0E3B43 3px;
   border-left: solid #0E3B43 3px;
+  margin-left: 30px;
 }
 
 .aboutmebody {
@@ -51,6 +52,11 @@ ol li {
 
 .spacing {
   word-spacing: 40px;
+  text-shadow: 4px 4px 40px #F4F7F6;
+}
+
+#innerspace {
+  word-spacing: 10px;
 }
 
 .panel-title {
