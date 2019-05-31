@@ -14,6 +14,14 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  text-shadow: 2px 2px 8px #0E3B43;
+}
+
+h4 {
+  font-size: 20px;
+}
+
 .projects {
   padding-top: 6px;
 }
@@ -24,6 +32,10 @@ h2 {
 
 .panel-heading {
   background-color: #0E3B43;
+}
+
+.spacing {
+  word-spacing: 40px;
 }
 
 .panel-title {
