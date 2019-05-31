@@ -1,11 +1,3 @@
-#name {
-  text-align: center;
-  font-family: 'Cinzel', serif;
-  color: #F4F7F6;
-  background-color: #0E3B43;
-  font-size: 50px;
-}
-
 body {
   background-color: #F4F7F6;
   background-image: radial-gradient(ellipse, #F4F7F6, #0E3B43);
@@ -29,6 +21,21 @@ ol li {
   text-shadow: 2px 2px 8px #0E3B43;
 }
 
+h5 {
+  font-size: 22px;
+}
+
+col-md-6 {
+  float: right;
+  align-content: center;
+  text-align: right;
+}
+
+
+.contact-body {
+  padding: 10px;
+}
+
 .projects {
   padding-top: 6px;
 }
@@ -50,13 +57,14 @@ ol li {
   background-color: #0E3B43;
 }
 
+.panel-heading2 {
+  background-color: #0E3B43;
+  color: #F4F7F6;
+}
+
 .spacing {
   word-spacing: 40px;
   text-shadow: 4px 4px 40px #F4F7F6;
-}
-
-#innerspace {
-  word-spacing: 10px;
 }
 
 .panel-title {
@@ -76,6 +84,26 @@ ol li {
   max-width: 100%;
   height: auto;
   display: block;
+}
+
+#innerspace {
+  word-spacing: 10px;
+}
+
+#contact-whole {
+  text-align: center;
+  align-content: center;
+  background-color: #0E3B43;
+  color: #F4F7F6;
+  border: solid white 3px;
+}
+
+#name {
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  color: #F4F7F6;
+  background-color: #0E3B43;
+  font-size: 50px;
 }
 
 #about-title {
