@@ -25,6 +25,7 @@ h4 {
 
 .projects {
   padding-top: 6px;
+  border: solid #0E3B43 3px;
 }
 
 .aboutme {
@@ -68,6 +69,7 @@ h4 {
   padding-left: 7px;
   padding-top: 7px;
   padding-right: 7px;
+  padding-bottom: 7px;
 }
 
 #aboutmeimg {
