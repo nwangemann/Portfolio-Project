@@ -16,5 +16,8 @@ h2 {
 
 #aboutmeimg {
   float: right;
-  width: 60%;
+  width: 67%;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
